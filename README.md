@@ -10,7 +10,7 @@
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=Rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-805F4C?style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-E04030?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
