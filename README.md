@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-717D8A?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-805F4C?style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=Go&logoColor=white"/>
