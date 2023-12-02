@@ -15,6 +15,6 @@
 <img src="https://img.shields.io/badge/Swift-E04030?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
-[![ohkashi's github stats](https://github-readme-stats.vercel.app/api?username=ohkashi&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![ohkashi's github stats](https://github-readme-stats.vercel.app/api?username=ohkashi&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohkashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohkashi&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
