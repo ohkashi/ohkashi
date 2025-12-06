@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=popout&logo=Flutter&logoColor=white"/>
 </p>
 
-[![ohkashi's github stats](https://github-readme-stats.vercel.app/api?username=ohkashi&hide=prs&show_icons=true&theme=shades-of-purple&border_color=642262)](https://github.com/anuraghazra/github-readme-stats)
+[![ohkashi's github stats](https://github-readme-streak-stats-eight.vercel.app?user=ohkashi&hide=prs&show_icons=true&theme=shades-of-purple&border_color=642262)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohkashi&layout=compact&theme=shades-of-purple&border_color=642262)](https://github.com/anuraghazra/github-readme-stats)
